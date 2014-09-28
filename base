@@ -1,0 +1,98 @@
+JACK = 0
+JILL = 0
+JACKR =0
+JILLR =0
+SALERY =0
+PASS= input("the passcode is...")
+if PASS == "12345":
+
+    while 1==1:
+        print ("jackr: ", JACKR)
+        print ("jillr: ", JILLR)
+        PASS = 0
+        INPUT = input("input a command: ")
+        print ("You said", INPUT)
+        if INPUT=="JILLR=5":
+            JILLR=JILLR+5
+        if INPUT=="JILLR=10":
+            JILLR=JILLR+10
+        if INPUT=="JILLR=15":
+            JILLR=JILLR+15
+        if INPUT=="JILLR=20":
+            JILLR=JILLR+20
+        if INPUT=="JILLR=25":
+            JILLR=JILLR+25
+        if INPUT=="JILLR=30":
+            JILLR=JILLR+30
+        if INPUT=="JILLR=35":
+            JILLR=JILLR+35
+        if INPUT=="JILLR=40":
+            JILLR=JILLR+40
+        if INPUT=="JILLR=45":
+            JILLR=JILLR+45
+        if INPUT=="JILLR=50":
+            JILLR=JILLR+50
+        if INPUT=="JILLR=55":
+            JILLR=JILLR+55
+        if INPUT=="JILLR=60":
+            JILLR=JILLR+60
+        if INPUT=="JILLR=65":
+            JILLR=65
+            
+        if INPUT=="JILLR=70":
+            JILLR=70
+        if INPUT=="JILLR=75":
+            JILLR=75
+        if INPUT=="JILLR=80":
+            JILLR=80
+        if INPUT=="JILLR=85":
+            JILLR=85
+        if INPUT=="JILLR=90":
+            JILLR=90
+        if INPUT=="JILLR=95":
+            JILLR=95
+        if INPUT=="JILLR=100":
+            JILLR=100
+        if INPUT=="JACKR=0":
+            JACKR=0
+        if INPUT=="JACKR=5":
+            JACKR=5
+        if INPUT=="JACKR=10":
+            JACKR=10
+        if INPUT=="JACKR=15":
+            JACKR=15
+        if INPUT=="JACKR=20":
+            JACKR=20
+        if INPUT=="JACKR=25":
+            JACKR=25
+        if INPUT=="JACKR=30":
+            JACKR=30
+        if INPUT=="JACKR=35":
+            JACKR=35
+        if INPUT=="JACKR=40":
+            JACKR=40
+        if INPUT=="JACKR=45":
+            JACKR=45
+        if INPUT=="JACKR=50":
+            JACKR=50
+        if INPUT=="JACKR=55":
+            JACKR=55
+        if INPUT=="JACKR=60":
+            JACKR=60
+        if INPUT=="JACKR=65":
+            JACKR=65
+        if INPUT=="JACKR=70":
+            JACKR=70
+        if INPUT=="JACKR=75":
+            JACKR=75
+        if INPUT=="JACKR=80":
+            JACKR=80
+        if INPUT=="JACKR=85":
+            JACKR=85
+        if INPUT=="JACKR=90":
+            JACKR=90
+        if INPUT=="JACKR=95":
+            JACKR=95
+        if INPUT=="JACKR=100":
+            JACKR=100
+       
